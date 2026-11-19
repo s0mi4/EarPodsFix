@@ -16,9 +16,9 @@
 <p align="center"><a href="#english">English</a> · <a href="#русский">Русский</a></p>
 
 <p align="center">
-  <img src="docs/screenshot-en.png" width="340" alt="EarPodsFix menu (English)">
+  <img src="docs/screenshot-en.png" width="380" alt="EarPodsFix menu (English)">
   &nbsp;&nbsp;
-  <img src="docs/screenshot-ru.png" width="340" alt="Меню EarPodsFix (русский)">
+  <img src="docs/screenshot-ru.png" width="380" alt="Меню EarPodsFix (русский)">
 </p>
 
 ---
